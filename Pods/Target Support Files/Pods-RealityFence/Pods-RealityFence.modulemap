@@ -1,0 +1,6 @@
+framework module Pods_RealityFence {
+  umbrella header "Pods-RealityFence-umbrella.h"
+
+  export *
+  module * { export * }
+}
